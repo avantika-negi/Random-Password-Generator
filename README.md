@@ -7,9 +7,10 @@ A simple Python-based GUI application that generates random passwords of specifi
 - User-friendly GUI built with `Tkinter`.
 - Secure password generation using `random.choice()` and `os.urandom()`.
 
-## Requirements
+## Technologies Used
 - Python 3.x
 - tkinter (comes pre-installed with Python)
+- os module
 
 ## How to Use
 1. Clone the repository:
@@ -28,7 +29,4 @@ A simple Python-based GUI application that generates random passwords of specifi
 ## Example
 Below is a screenshot of the application in action:
 
-![Password Generator Screenshot](s1.png)
-
-## License
-This project is licensed under the MIT License. See `LICENSE` for details.
+![Screenshot 1](images/s1.png) ![Screenshot 1](images/s2.png) ![Screenshot 1](images/s3.png)
